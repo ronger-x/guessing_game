@@ -15,3 +15,7 @@
 [ ] 红外遥控器输入  
 [ ] 数码管展示用户输入的数字  
 [ ] 红外遥控器控制程序  
+
+## 其他
+下载程序后无法运行请检查 `Settings` -> `Build,Execution,Deployment` -> `CMake` -> `Build type` 为 `stc89c52rc`(你的单片机型号)
+![img.png](img.png)
